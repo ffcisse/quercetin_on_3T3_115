@@ -5,7 +5,7 @@ This project investigates the effects of quercetin, a bioactive flavonoid, on ad
 
 The goal of this study was to determine how the **timing of quercetin exposure** during different stages of adipogenesis (induction, maturation, and maintenance) influences lipid accumulation and cell morphology.
 
-📄 **Full Report:** [View here](BioE115_Final_Project_Paper.pdf)
+📄 **Full Report:** [View here](Final_Project_Paper_115.pdf)
 
 
 ## Skills
